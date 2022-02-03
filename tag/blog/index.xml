@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>blog | CheeEn-Yu</title>
-    <link>/tag/blog/</link>
-      <atom:link href="/tag/blog/index.xml" rel="self" type="application/rss+xml" />
+    <title>blog | 修課心得</title>
+    <link>https://cheeen-yu.github.io/Profile/tag/blog/</link>
+      <atom:link href="https://cheeen-yu.github.io/Profile/tag/blog/index.xml" rel="self" type="application/rss+xml" />
     <description>blog</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zn-TW</language><lastBuildDate>Thu, 03 Feb 2022 10:36:55 +0800</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://cheeen-yu.github.io/Profile/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>blog</title>
-      <link>/tag/blog/</link>
+      <link>https://cheeen-yu.github.io/Profile/tag/blog/</link>
     </image>
     
     <item>
       <title>大一上選課紀錄</title>
-      <link>/post/test/</link>
+      <link>https://cheeen-yu.github.io/Profile/post/test/</link>
       <pubDate>Thu, 03 Feb 2022 10:36:55 +0800</pubDate>
-      <guid>/post/test/</guid>
+      <guid>https://cheeen-yu.github.io/Profile/post/test/</guid>
       <description>&lt;h2 id=&#34;選課&#34;&gt;選課&lt;/h2&gt;
 &lt;blockquote&gt;
 &lt;ul&gt;

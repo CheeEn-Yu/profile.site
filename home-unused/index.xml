@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home-unuseds | CheeEn-Yu</title>
-    <link>/home-unused/</link>
-      <atom:link href="/home-unused/index.xml" rel="self" type="application/rss+xml" />
+    <title>Home-unuseds | 修課心得</title>
+    <link>https://cheeen-yu.github.io/Profile/home-unused/</link>
+      <atom:link href="https://cheeen-yu.github.io/Profile/home-unused/index.xml" rel="self" type="application/rss+xml" />
     <description>Home-unuseds</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zn-TW</language>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://cheeen-yu.github.io/Profile/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Home-unuseds</title>
-      <link>/home-unused/</link>
+      <link>https://cheeen-yu.github.io/Profile/home-unused/</link>
     </image>
     
     <item>
       <title></title>
-      <link>/home-unused/slider/</link>
+      <link>https://cheeen-yu.github.io/Profile/home-unused/slider/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/home-unused/slider/</guid>
+      <guid>https://cheeen-yu.github.io/Profile/home-unused/slider/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Academic</title>
-      <link>/home-unused/hero/</link>
+      <link>https://cheeen-yu.github.io/Profile/home-unused/hero/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/home-unused/hero/</guid>
+      <guid>https://cheeen-yu.github.io/Profile/home-unused/hero/</guid>
       <description>&lt;p&gt;&lt;strong&gt;The Best Way to Create the Website You Want from Markdown (or Jupyter/RStudio)&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Build &lt;strong&gt;Anything&lt;/strong&gt; with Widgets&lt;/p&gt;
 &lt;p&gt;&lt;span style=&#34;text-shadow: none;&#34;&gt;&lt;a class=&#34;github-button&#34; href=&#34;https://github.com/gcushen/hugo-academic&#34; data-icon=&#34;octicon-star&#34; data-size=&#34;large&#34; data-show-count=&#34;true&#34; aria-label=&#34;Star this on GitHub&#34;&gt;Star&lt;/a&gt;&lt;script async defer src=&#34;https://buttons.github.io/buttons.js&#34;&gt;&lt;/script&gt;&lt;/span&gt;&lt;/p&gt;
@@ -33,9 +33,9 @@
     
     <item>
       <title>Academic Kickstart</title>
-      <link>/home-unused/demo/</link>
+      <link>https://cheeen-yu.github.io/Profile/home-unused/demo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/home-unused/demo/</guid>
+      <guid>https://cheeen-yu.github.io/Profile/home-unused/demo/</guid>
       <description>&lt;p&gt;Welcome to the &lt;strong&gt;Academic Kickstart&lt;/strong&gt; template!&lt;/p&gt;
 &lt;p&gt;Follow our 
 &lt;a href=&#34;https://sourcethemes.com/academic/docs/get-started/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Getting Started&lt;/a&gt; and 
@@ -73,73 +73,73 @@
     
     <item>
       <title>Skills</title>
-      <link>/home-unused/skills/</link>
+      <link>https://cheeen-yu.github.io/Profile/home-unused/skills/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/home-unused/skills/</guid>
+      <guid>https://cheeen-yu.github.io/Profile/home-unused/skills/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Experience</title>
-      <link>/home-unused/experience/</link>
+      <link>https://cheeen-yu.github.io/Profile/home-unused/experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/home-unused/experience/</guid>
+      <guid>https://cheeen-yu.github.io/Profile/home-unused/experience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Accomplish&amp;shy;ments</title>
-      <link>/home-unused/accomplishments/</link>
+      <link>https://cheeen-yu.github.io/Profile/home-unused/accomplishments/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/home-unused/accomplishments/</guid>
+      <guid>https://cheeen-yu.github.io/Profile/home-unused/accomplishments/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>/home-unused/projects/</link>
+      <link>https://cheeen-yu.github.io/Profile/home-unused/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/home-unused/projects/</guid>
+      <guid>https://cheeen-yu.github.io/Profile/home-unused/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Meet the Team</title>
-      <link>/home-unused/people/</link>
+      <link>https://cheeen-yu.github.io/Profile/home-unused/people/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/home-unused/people/</guid>
+      <guid>https://cheeen-yu.github.io/Profile/home-unused/people/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>/home-unused/talks/</link>
+      <link>https://cheeen-yu.github.io/Profile/home-unused/talks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/home-unused/talks/</guid>
+      <guid>https://cheeen-yu.github.io/Profile/home-unused/talks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Featured Publications</title>
-      <link>/home-unused/featured/</link>
+      <link>https://cheeen-yu.github.io/Profile/home-unused/featured/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/home-unused/featured/</guid>
+      <guid>https://cheeen-yu.github.io/Profile/home-unused/featured/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent Publications</title>
-      <link>/home-unused/publications/</link>
+      <link>https://cheeen-yu.github.io/Profile/home-unused/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/home-unused/publications/</guid>
+      <guid>https://cheeen-yu.github.io/Profile/home-unused/publications/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Popular Topics</title>
-      <link>/home-unused/tags/</link>
+      <link>https://cheeen-yu.github.io/Profile/home-unused/tags/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/home-unused/tags/</guid>
+      <guid>https://cheeen-yu.github.io/Profile/home-unused/tags/</guid>
       <description></description>
     </item>
     
