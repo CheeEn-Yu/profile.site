@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>record | CheeEn-Yu</title>
+    <link>/category/record/</link>
+      <atom:link href="/category/record/index.xml" rel="self" type="application/rss+xml" />
+    <description>record</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zn-TW</language><lastBuildDate>Thu, 03 Feb 2022 10:36:55 +0800</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>record</title>
+      <link>/category/record/</link>
+    </image>
+    
+    <item>
+      <title>大一上選課紀錄</title>
+      <link>/post/test/</link>
+      <pubDate>Thu, 03 Feb 2022 10:36:55 +0800</pubDate>
+      <guid>/post/test/</guid>
+      <description>&lt;h2 id=&#34;選課&#34;&gt;選課&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;微積分1、2&lt;/li&gt;
+&lt;li&gt;普通物理學甲上&lt;/li&gt;
+&lt;li&gt;靜力學&lt;/li&gt;
+&lt;li&gt;計算機概論&lt;/li&gt;
+&lt;li&gt;工廠實習&lt;/li&gt;
+&lt;li&gt;普通物理學實驗上&lt;/li&gt;
+&lt;li&gt;健康體適能&lt;/li&gt;
+&lt;li&gt;認識全球&lt;/li&gt;
+&lt;li&gt;機械工程概論&lt;/li&gt;
+&lt;li&gt;英文一&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

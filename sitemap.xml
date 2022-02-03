@@ -2,10 +2,61 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://cheeen-yu.github.io/hugo_test/categories/</loc>
+    <loc>/home-unused/slider/</loc>
   </url><url>
-    <loc>https://cheeen-yu.github.io/hugo_test/</loc>
+    <loc>/home-unused/hero/</loc>
   </url><url>
-    <loc>https://cheeen-yu.github.io/hugo_test/tags/</loc>
+    <loc>/home-unused/demo/</loc>
+  </url><url>
+    <loc>/home-unused/skills/</loc>
+  </url><url>
+    <loc>/home-unused/experience/</loc>
+  </url><url>
+    <loc>/home-unused/accomplishments/</loc>
+  </url><url>
+    <loc>/home-unused/projects/</loc>
+  </url><url>
+    <loc>/home-unused/people/</loc>
+  </url><url>
+    <loc>/home-unused/talks/</loc>
+  </url><url>
+    <loc>/home-unused/featured/</loc>
+  </url><url>
+    <loc>/home-unused/publications/</loc>
+  </url><url>
+    <loc>/home-unused/tags/</loc>
+  </url><url>
+    <loc>/tag/blog/</loc>
+    <lastmod>2022-02-03T10:36:55+08:00</lastmod>
+  </url><url>
+    <loc>/categories/</loc>
+    <lastmod>2022-02-03T10:36:55+08:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2022-02-03T10:36:55+08:00</lastmod>
+  </url><url>
+    <loc>/post/</loc>
+    <lastmod>2022-02-03T10:36:55+08:00</lastmod>
+  </url><url>
+    <loc>/category/record/</loc>
+    <lastmod>2022-02-03T10:36:55+08:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2022-02-03T10:36:55+08:00</lastmod>
+  </url><url>
+    <loc>/post/test/</loc>
+    <lastmod>2022-02-03T10:36:55+08:00</lastmod>
+  </url><url>
+    <loc>/authors/</loc>
+  </url><url>
+    <loc>/home-unused/</loc>
+  </url><url>
+    <loc>/publication_types/</loc>
+  </url><url>
+    <loc>/publication/</loc>
+  </url><url>
+    <loc>/talk/</loc>
+  </url><url>
+    <loc>/author/%E4%BD%99%E5%A5%87%E6%81%A9/</loc>
   </url>
 </urlset>
