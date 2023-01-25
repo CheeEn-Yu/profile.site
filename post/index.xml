@@ -5,7 +5,7 @@
     <link>https://cheeen-yu.github.io/Profile/post/</link>
       <atom:link href="https://cheeen-yu.github.io/Profile/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zn-TW</language><lastBuildDate>Wed, 25 Jan 2023 10:33:21 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zn-TW</language><lastBuildDate>Wed, 25 Jan 2023 11:43:18 +0800</lastBuildDate>
     <image>
       <url>https://cheeen-yu.github.io/Profile/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
@@ -13,10 +13,56 @@
     </image>
     
     <item>
+      <title>大二上選課紀錄與心得</title>
+      <link>https://cheeen-yu.github.io/Profile/post/grade2_record/</link>
+      <pubDate>Wed, 25 Jan 2023 11:43:18 +0800</pubDate>
+      <guid>https://cheeen-yu.github.io/Profile/post/grade2_record/</guid>
+      <description>&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;工程數學-線性代數&lt;/li&gt;
+&lt;li&gt;工程數學-微分方程&lt;/li&gt;
+&lt;li&gt;交換電路與邏輯設計&lt;/li&gt;
+&lt;li&gt;離散數學&lt;/li&gt;
+&lt;li&gt;生醫工程概論&lt;/li&gt;
+&lt;li&gt;計算機程式實驗&lt;/li&gt;
+&lt;li&gt;毒道之處-看不到的危機&lt;/li&gt;
+&lt;li&gt;羽球初級&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;這學期輔系電機，修了不少電機系的課&lt;br&gt;
+在許多數學課中獲得令人印象深刻的收穫&lt;/p&gt;
+&lt;h2 id=&#34;工程數學-線性代數&#34;&gt;工程數學-線性代數&lt;/h2&gt;
+&lt;p&gt;教師: 李宏毅 教授&lt;br&gt;
+課程網址:
+&lt;a href=&#34;https://googly-mingto.github.io/LA_2022_fall/2022-fall.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;連結&lt;/a&gt;&lt;br&gt;
+心得: 六次python程式作業都是簡單又有收穫&lt;/p&gt;
+&lt;h3 id=&#34;1-cycle-detection&#34;&gt;1. cycle detection&lt;/h3&gt;
+&lt;p&gt;利用簡單的矩陣乘法和一些處理，來解決圖論問題中，一個graph是否有環的問題&lt;/p&gt;
+&lt;h3 id=&#34;2-hill-cipher&#34;&gt;2. Hill Cipher&lt;/h3&gt;
+&lt;p&gt;了解到乘一個矩陣，就像是將一個信息過一個線性系統，例如作業二就是一個加密系統&lt;/p&gt;
+&lt;h3 id=&#34;3-cosine-transform-and-its-application&#34;&gt;3. Cosine transform and its application&lt;/h3&gt;
+&lt;p&gt;個人認為最好玩的一份作業，裡面有三題:&lt;br&gt;
+(a) 將聲音訊號轉到頻率域，濾掉雜音-&amp;gt;1維DCT&lt;br&gt;
+(b) jpeg壓縮-&amp;gt;二維DCT&lt;br&gt;
+(c) (bonus)助教加密圖片，透過逆操作解出原圖&lt;br&gt;
+這份作業實作了線性代數裡面change coordinate的觀念，先刻出一個basis，也另外隱隱指出其實那些cos也是vector&lt;br&gt;
+有趣的是可以自己選擇圖片壓縮，就可以看到壓縮完以後size變原本的0.2倍&lt;/p&gt;
+&lt;h3 id=&#34;4-pagerank&#34;&gt;4. PageRank&lt;/h3&gt;
+&lt;p&gt;google 最一開始的演算法，被稱為最有價值的一個eigenvector&lt;/p&gt;
+&lt;h3 id=&#34;5-linear-regression&#34;&gt;5. Linear regression&lt;/h3&gt;
+&lt;p&gt;這個就是用上課丁丁公式直接算出最佳解，機器學習會有其他方法可以train出答案&lt;/p&gt;
+&lt;h3 id=&#34;6-svd-for-image-compression&#34;&gt;6. SVD for Image compression&lt;/h3&gt;
+&lt;p&gt;SVD:Singular value decomposition，看名字就知道是將任一矩陣拆開，
+變成三個矩陣相乘，中間矩陣a_ij當i!=j時等於0(類似對角矩陣)。
+可簡單理解成對角化的進階版，其中對角的值就叫做singular value。numpy一行code就能找出這三個矩陣了。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>大一下選課紀錄</title>
-      <link>https://cheeen-yu.github.io/Profile/post/20230125/</link>
+      <link>https://cheeen-yu.github.io/Profile/post/grade1_record/</link>
       <pubDate>Wed, 25 Jan 2023 10:33:21 +0800</pubDate>
-      <guid>https://cheeen-yu.github.io/Profile/post/20230125/</guid>
+      <guid>https://cheeen-yu.github.io/Profile/post/grade1_record/</guid>
       <description>&lt;h2 id=&#34;選課&#34;&gt;選課&lt;/h2&gt;
 &lt;blockquote&gt;
 &lt;ul&gt;
